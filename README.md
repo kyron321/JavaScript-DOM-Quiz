@@ -1,1 +1,1 @@
-# NetNinjaJS-Quiz
+# JavaScript DOM Quiz
